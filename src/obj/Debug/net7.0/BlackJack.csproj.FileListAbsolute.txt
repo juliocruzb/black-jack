@@ -1,0 +1,15 @@
+/Users/juliocruz/Projects/black-jack/src/bin/Debug/net7.0/BlackJack
+/Users/juliocruz/Projects/black-jack/src/bin/Debug/net7.0/BlackJack.deps.json
+/Users/juliocruz/Projects/black-jack/src/bin/Debug/net7.0/BlackJack.runtimeconfig.json
+/Users/juliocruz/Projects/black-jack/src/bin/Debug/net7.0/BlackJack.dll
+/Users/juliocruz/Projects/black-jack/src/bin/Debug/net7.0/BlackJack.pdb
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.csproj.AssemblyReference.cache
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.AssemblyInfoInputs.cache
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.AssemblyInfo.cs
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.csproj.CoreCompileInputs.cache
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.dll
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/refint/BlackJack.dll
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.pdb
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/BlackJack.genruntimeconfig.cache
+/Users/juliocruz/Projects/black-jack/src/obj/Debug/net7.0/ref/BlackJack.dll
